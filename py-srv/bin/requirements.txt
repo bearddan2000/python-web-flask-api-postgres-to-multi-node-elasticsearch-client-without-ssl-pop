@@ -1,0 +1,5 @@
+flask
+elasticsearch
+elasticsearch-dsl
+psycopg2-binary
+sqlalchemy
